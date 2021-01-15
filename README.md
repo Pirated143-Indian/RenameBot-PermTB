@@ -10,7 +10,7 @@ An Open Source Telegram Rename Bot
 
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rocky572/RenameBot-PermTB)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pirated143-Indian/RenameBot-PermTB)
 
 For Queries and support, contact [Pirated](https://telegram.dog/Pirated143)
 
